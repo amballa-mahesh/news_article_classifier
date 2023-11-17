@@ -1,0 +1,6 @@
+[ 2023-11-17 21:12:04,547 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2023-11-17 21:12:04,557 ] 96 werkzeug - INFO -  * Debugger PIN: 965-438-205
+[ 2023-11-17 21:12:04,720 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 21:12:04] "GET / HTTP/1.1" 200 -
+[ 2023-11-17 21:12:17,323 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 21:12:17] "POST /submit HTTP/1.1" 200 -
+[ 2023-11-17 21:12:27,251 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 21:12:27] "POST /submit HTTP/1.1" 200 -
+[ 2023-11-17 21:12:45,268 ] 96 werkzeug - INFO -  * Detected change in 'd:\\Git Data\\BBC_news_classifier\\app.py', reloading

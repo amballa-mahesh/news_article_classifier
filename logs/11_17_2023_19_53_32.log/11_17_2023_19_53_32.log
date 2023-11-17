@@ -1,0 +1,6 @@
+[ 2023-11-17 19:53:32,150 ] 16 root - INFO - libraries loaded...
+[ 2023-11-17 19:53:32,176 ] 96 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2023-11-17 19:53:32,177 ] 96 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2023-11-17 19:53:50,988 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 19:53:50] "GET / HTTP/1.1" 200 -
+[ 2023-11-17 19:53:57,123 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 19:53:57] "[33mPOST /submit HTTP/1.1[0m" 404 -

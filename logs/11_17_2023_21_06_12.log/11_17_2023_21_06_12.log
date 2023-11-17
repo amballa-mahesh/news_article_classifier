@@ -1,0 +1,8 @@
+[ 2023-11-17 21:06:58,468 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2023-11-17 21:06:58,474 ] 96 werkzeug - INFO -  * Debugger PIN: 965-438-205
+[ 2023-11-17 21:06:58,787 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 21:06:58] "GET / HTTP/1.1" 200 -
+[ 2023-11-17 21:07:20,926 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 21:07:20] "[32mPOST /submit HTTP/1.1[0m" 302 -
+[ 2023-11-17 21:07:20,947 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 21:07:20] "GET / HTTP/1.1" 200 -
+[ 2023-11-17 21:07:27,732 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 21:07:27] "[32mPOST /submit HTTP/1.1[0m" 302 -
+[ 2023-11-17 21:07:27,734 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 21:07:27] "GET / HTTP/1.1" 200 -
+[ 2023-11-17 21:07:49,348 ] 96 werkzeug - INFO -  * Detected change in 'd:\\git data\\bbc_news_classifier\\app.py', reloading

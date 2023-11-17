@@ -1,0 +1,21 @@
+[ 2023-11-17 20:49:00,533 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2023-11-17 20:49:00,545 ] 96 werkzeug - INFO -  * Debugger PIN: 965-438-205
+[ 2023-11-17 20:49:01,064 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:49:01] "GET / HTTP/1.1" 200 -
+[ 2023-11-17 20:49:16,158 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:49:16] "POST /submit HTTP/1.1" 200 -
+[ 2023-11-17 20:49:29,027 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:49:29] "POST /submit HTTP/1.1" 200 -
+[ 2023-11-17 20:49:29,109 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:49:29] "POST /submit HTTP/1.1" 200 -
+[ 2023-11-17 20:49:36,476 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:49:36] "POST /submit HTTP/1.1" 200 -
+[ 2023-11-17 20:49:43,995 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:49:43] "POST /submit HTTP/1.1" 200 -
+[ 2023-11-17 20:50:03,178 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:50:03] "POST /submit HTTP/1.1" 200 -
+[ 2023-11-17 20:51:22,421 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:51:22] "GET / HTTP/1.1" 200 -
+[ 2023-11-17 20:51:29,486 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:51:29] "GET / HTTP/1.1" 200 -
+[ 2023-11-17 20:51:35,889 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:51:35] "POST /submit HTTP/1.1" 200 -
+[ 2023-11-17 20:53:26,238 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:53:26] "POST /submit HTTP/1.1" 200 -
+[ 2023-11-17 20:55:37,867 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:55:37] "GET / HTTP/1.1" 200 -
+[ 2023-11-17 20:55:51,174 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:55:51] "POST /submit HTTP/1.1" 200 -
+[ 2023-11-17 20:57:21,670 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:57:21] "GET / HTTP/1.1" 200 -
+[ 2023-11-17 20:57:34,850 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:57:34] "POST /submit HTTP/1.1" 200 -
+[ 2023-11-17 20:58:13,992 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:58:13] "GET / HTTP/1.1" 200 -
+[ 2023-11-17 20:58:18,659 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:58:18] "POST /submit HTTP/1.1" 200 -
+[ 2023-11-17 20:58:59,347 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 20:58:59] "POST /submit HTTP/1.1" 200 -
+[ 2023-11-17 20:59:24,900 ] 96 werkzeug - INFO -  * Detected change in 'd:\\Git Data\\BBC_news_classifier\\app.py', reloading

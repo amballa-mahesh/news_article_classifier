@@ -1,0 +1,5 @@
+[ 2023-11-17 09:49:12,143 ] 17 root - INFO - original data read and loaded via pandas
+[ 2023-11-17 09:49:12,507 ] 33 root - INFO - Categories changed ot label encoding..
+[ 2023-11-17 10:01:15,192 ] 40 root - INFO - cleaned train data saved
+[ 2023-11-17 10:01:15,241 ] 43 root - INFO - cleaned test data saved
+[ 2023-11-17 10:01:15,722 ] 46 root - INFO - cleaned data for fit
