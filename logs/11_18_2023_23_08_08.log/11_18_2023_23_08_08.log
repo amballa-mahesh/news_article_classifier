@@ -1,5 +1,0 @@
-[ 2023-11-18 23:14:49,043 ] 96 werkzeug - WARNING -  * Debugger is active!
-[ 2023-11-18 23:14:49,085 ] 96 werkzeug - INFO -  * Debugger PIN: 322-615-396
-[ 2023-11-18 23:14:49,388 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Nov/2023 23:14:49] "GET / HTTP/1.1" 200 -
-[ 2023-11-18 23:14:50,171 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Nov/2023 23:14:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-[ 2023-11-18 23:15:01,722 ] 96 werkzeug - INFO - 127.0.0.1 - - [18/Nov/2023 23:15:01] "POST /submit HTTP/1.1" 200 -

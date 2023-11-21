@@ -1,5 +1,0 @@
-[ 2023-11-17 21:14:01,515 ] 96 werkzeug - WARNING -  * Debugger is active!
-[ 2023-11-17 21:14:01,522 ] 96 werkzeug - INFO -  * Debugger PIN: 965-438-205
-[ 2023-11-17 21:14:02,016 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 21:14:02] "GET / HTTP/1.1" 200 -
-[ 2023-11-17 21:14:07,342 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 21:14:07] "POST /submit HTTP/1.1" 200 -
-[ 2023-11-17 21:14:19,114 ] 96 werkzeug - INFO - 127.0.0.1 - - [17/Nov/2023 21:14:19] "POST /submit HTTP/1.1" 200 -
