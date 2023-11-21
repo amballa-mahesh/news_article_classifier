@@ -3,7 +3,7 @@
 Readme file.
 
 
-LIVE HOST WEB ADDRESS: https://face-mask-detection-ggc0.onrender.com		
+LIVE HOST WEB ADDRESS: https://news-classifier-rk6n.onrender.com	
 
 This the News Article Classifier.
 
